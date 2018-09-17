@@ -1,0 +1,27 @@
+_repo: Amurath-to-Amurath_52495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Gertrude Lowthian
+    alias: Bell, Gertrude Margaret Lowthian
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '46514'
+    url: http://www.gutenberg.org/2009/agents/46514
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
+description: ''
+gutenberg_issued: '2016-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52495'
+  lccn: a11001677
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Middle East -- Description and travel'
+- GITenberg
+title: Amurath to Amurath
+url: http://www.gutenberg.org/ebooks/52495
